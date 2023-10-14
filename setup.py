@@ -6,7 +6,7 @@ print(long_description)
 setup(
     name="eeg_fConn",
     packages = find_packages(include=["eeg_fConn"]),
-    version = '1.1.0',
+    version = '1.2.0',
     description = "To compute the functional connectivity from EEG in various bands",
     long_description = long_description,
     long_description_content_type = 'text/markdown',
